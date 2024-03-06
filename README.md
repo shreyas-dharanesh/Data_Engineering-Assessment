@@ -28,3 +28,5 @@ PEI Group
 9. Run SQL queries on the saved delta tables with Spark SQL commands
 
 ## Overview on the workflow:
+
+![Workflow](https://github.com/shreyas-dharanesh/Data_Engineering-Assessment/assets/57505016/357f5c6b-b64f-4719-98e6-6738ea46915e)
